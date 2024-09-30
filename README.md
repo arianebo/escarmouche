@@ -4,3 +4,4 @@ Résolution de conflits git
 Résolution
 
 Coucou
+hiiiiiiiiiiiiiiiiiiiiii
